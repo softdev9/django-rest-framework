@@ -172,8 +172,6 @@ Full documentation for the project is available at [https://www.django-rest-fram
 
 For questions and support, use the [REST framework discussion group][group], or `#restframework` on freenode IRC.
 
-You may also want to [follow the author on Twitter][twitter].
-
 # Security
 
 Please see the [security policy][security-policy].
